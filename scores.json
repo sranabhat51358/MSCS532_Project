@@ -1,0 +1,13 @@
+{
+  "high": ["completed", "deploy", "commit", "merge"],
+  "medium": ["created", "started", "pull"],
+  "neutral": ["login", "logout"],
+  "negative": ["cancelled", "deleted", "reassigned"],
+
+  "values": {
+    "high": 5,
+    "medium": 2,
+    "neutral": 0,
+    "negative": -3
+  }
+}

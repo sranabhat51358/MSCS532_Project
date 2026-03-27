@@ -1,0 +1,222 @@
+[
+    {
+        "employee_id": "E101",
+        "name": "John Smith",
+        "email": "john.smith@company.com",
+        "department": "Engineering",
+        "role": "Senior Software Engineer",
+        "level": "L5",
+        "manager": "E106",
+        "location": "New York",
+        "joining_date": "2022-03-15"
+    },
+    {
+        "employee_id": "E102",
+        "name": "Alice Johnson",
+        "email": "alice.johnson@company.com",
+        "department": "Customer Success",
+        "role": "Software Engineer",
+        "level": "L3",
+        "manager": "E101",
+        "location": "San Francisco",
+        "joining_date": "2023-06-10"
+    },
+    {
+        "employee_id": "E103",
+        "name": "Michael Brown",
+        "email": "michael.brown@company.com",
+        "department": "Operations",
+        "role": "Operations Analyst",
+        "level": "L3",
+        "manager": "E107",
+        "location": "Austin",
+        "joining_date": "2021-09-21"
+    },
+    {
+        "employee_id": "E104",
+        "name": "Emily Davis",
+        "email": "emily.davis@company.com",
+        "department": "Marketing",
+        "role": "Marketing Specialist",
+        "level": "L3",
+        "manager": "E108",
+        "location": "Chicago",
+        "joining_date": "2023-01-12"
+    },
+    {
+        "employee_id": "E105",
+        "name": "David Wilson",
+        "email": "david.wilson@company.com",
+        "department": "Finance",
+        "role": "Financial Analyst",
+        "level": "L4",
+        "manager": "E109",
+        "location": "New York",
+        "joining_date": "2020-07-08"
+    },
+    {
+        "employee_id": "E106",
+        "name": "Sophia Martinez",
+        "email": "sophia.martinez@company.com",
+        "department": "Engineering",
+        "role": "Engineering Manager",
+        "level": "L6",
+        "manager": null,
+        "location": "Seattle",
+        "joining_date": "2019-04-18"
+    },
+    {
+        "employee_id": "E107",
+        "name": "James Anderson",
+        "email": "james.anderson@company.com",
+        "department": "Operations",
+        "role": "Operations Manager",
+        "level": "L6",
+        "manager": null,
+        "location": "Austin",
+        "joining_date": "2018-11-03"
+    },
+    {
+        "employee_id": "E108",
+        "name": "Olivia Thomas",
+        "email": "olivia.thomas@company.com",
+        "department": "Marketing",
+        "role": "Marketing Manager",
+        "level": "L6",
+        "manager": null,
+        "location": "Chicago",
+        "joining_date": "2019-08-25"
+    },
+    {
+        "employee_id": "E109",
+        "name": "Daniel Taylor",
+        "email": "daniel.taylor@company.com",
+        "department": "Finance",
+        "role": "Finance Manager",
+        "level": "L6",
+        "manager": null,
+        "location": "New York",
+        "joining_date": "2017-05-14"
+    },
+    {
+        "employee_id": "E110",
+        "name": "Isabella Moore",
+        "email": "isabella.moore@company.com",
+        "department": "Engineering",
+        "role": "DevOps Engineer",
+        "level": "L4",
+        "manager": "E106",
+        "location": "San Francisco",
+        "joining_date": "2022-10-09"
+    },
+    {
+        "employee_id": "E111",
+        "name": "Ethan Jackson",
+        "email": "ethan.jackson@company.com",
+        "department": "Operations",
+        "role": "Process Engineer",
+        "level": "L4",
+        "manager": "E107",
+        "location": "Austin",
+        "joining_date": "2021-12-01"
+    },
+    {
+        "employee_id": "E112",
+        "name": "Mia White",
+        "email": "mia.white@company.com",
+        "department": "Marketing",
+        "role": "Content Strategist",
+        "level": "L4",
+        "manager": "E108",
+        "location": "Los Angeles",
+        "joining_date": "2023-03-19"
+    },
+    {
+        "employee_id": "E113",
+        "name": "Alexander Harris",
+        "email": "alex.harris@company.com",
+        "department": "Finance",
+        "role": "Senior Accountant",
+        "level": "L4",
+        "manager": "E109",
+        "location": "New York",
+        "joining_date": "2020-06-11"
+    },
+    {
+        "employee_id": "E114",
+        "name": "Charlotte Martin",
+        "email": "charlotte.martin@company.com",
+        "department": "Engineering",
+        "role": "Frontend Engineer",
+        "level": "L3",
+        "manager": "E101",
+        "location": "Seattle",
+        "joining_date": "2023-09-05"
+    },
+    {
+        "employee_id": "E115",
+        "name": "Benjamin Thompson",
+        "email": "ben.thompson@company.com",
+        "department": "Operations",
+        "role": "Logistics Coordinator",
+        "level": "L3",
+        "manager": "E107",
+        "location": "Dallas",
+        "joining_date": "2022-01-22"
+    },
+    {
+        "employee_id": "E116",
+        "name": "Amelia Garcia",
+        "email": "amelia.garcia@company.com",
+        "department": "Marketing",
+        "role": "SEO Specialist",
+        "level": "L3",
+        "manager": "E108",
+        "location": "Miami",
+        "joining_date": "2023-07-30"
+    },
+    {
+        "employee_id": "E117",
+        "name": "Lucas Martinez",
+        "email": "lucas.martinez@company.com",
+        "department": "Finance",
+        "role": "Risk Analyst",
+        "level": "L3",
+        "manager": "E109",
+        "location": "Boston",
+        "joining_date": "2021-02-14"
+    },
+    {
+        "employee_id": "E118",
+        "name": "Harper Lee",
+        "email": "harper.lee@company.com",
+        "department": "Engineering",
+        "role": "Backend Engineer",
+        "level": "L4",
+        "manager": "E106",
+        "location": "San Francisco",
+        "joining_date": "2022-05-28"
+    },
+    {
+        "employee_id": "E119",
+        "name": "Henry Clark",
+        "email": "henry.clark@company.com",
+        "department": "Operations",
+        "role": "Supply Chain Analyst",
+        "level": "L3",
+        "manager": "E107",
+        "location": "Austin",
+        "joining_date": "2020-10-17"
+    },
+    {
+        "employee_id": "E120",
+        "name": "Evelyn Rodriguez",
+        "email": "evelyn.rodriguez@company.com",
+        "department": "Marketing",
+        "role": "Brand Manager",
+        "level": "L5",
+        "manager": "E108",
+        "location": "Chicago",
+        "joining_date": "2019-12-09"
+    }
+]
